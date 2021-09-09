@@ -1,0 +1,30 @@
+
+=
+java:S1659"'Declare "subButton" on a separate line.(š‡ç×
+=
+java:S1659"'Declare "mulButton" on a separate line.(š‡ç×
+=
+java:S1659"'Declare "divButton" on a separate line.(š‡ç×
+B
+java:S1659"'Declare "equButton" on a separate line.(®Çûÿÿÿÿ
+B
+java:S1659"'Declare "delButton" on a separate line.(®Çûÿÿÿÿ
+B
+java:S1659"'Declare "clrButton" on a separate line.(®Çûÿÿÿÿ
+B
+java:S1659"'Declare "negButton" on a separate line.(®Çûÿÿÿÿ
+=
+java:S1659""Declare "num2" on a separate line.(ãÌË“ùÿÿÿÿ
+?
+java:S1659"$Declare "result" on a separate line.(ãÌË“ùÿÿÿÿ
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+S
+java:S1854a"8Remove this useless assignment to local variable "calc".(åÂ©”şÿÿÿÿ
+D
+java:S1481a")Remove this unused "calc" local variable.(åÂ©”şÿÿÿÿ
+m
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼ Òşüÿÿÿÿ
+7	java:S131…""Add a default case to this switch.(î­™o
+0
+java:S1220""Move this file to a named package.
